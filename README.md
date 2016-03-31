@@ -1,4 +1,4 @@
-# Injection 中文指南
+# Injection 中文配图指南
 
 大家最近都开始用Injection Plugins, 针对在使用过程中遇到的一些问题, 这里给出解决方案,
 
