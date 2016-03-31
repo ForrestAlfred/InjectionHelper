@@ -34,6 +34,7 @@
 
   2.2.1 Identity 错误
     找到 文件夹('iOSInjectionProject')下的identity.txt 文件
+    * ![](http://7xn6cd.com1.z0.glb.clouddn.com/16-3-31/79524689.jpg)
     修改为你自己的Identity
 
 Links:
