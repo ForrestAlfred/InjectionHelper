@@ -16,7 +16,7 @@
 
 1.0 在 Project 菜单 找到 Injection Plugin 菜单, 
 
-  在弹出的子菜单里,选择 Patch Project for Injection
+  * 在弹出的子菜单里,选择 Patch Project for Injection
   这会在你的项目目录下生成一个文件夹('iOSInjectionProject')
   
 2.1 测试 Injection
