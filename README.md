@@ -18,6 +18,7 @@
 
   * 在弹出的子菜单里,选择 Patch Project for Injection
   这会在你的项目目录下生成一个文件夹('iOSInjectionProject')
+![](http://7xn6cd.com1.z0.glb.clouddn.com/16-3-31/57151311.jpg)
   
 2.1 测试 Injection
 
@@ -31,7 +32,8 @@
 2.2 如果在以上过程中出现了错误提示框
 
   2.2.1 Identity 错误
-    
+    找到 文件夹('iOSInjectionProject')下的identity.txt 文件
+    修改为你自己的Identity
 
 Links:
 
