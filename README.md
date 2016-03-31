@@ -9,13 +9,16 @@
 ###方法:
 
 1. 需要给我们的项目打一个补丁
-2. 如果出现 Identity 相关的错误, 需要清理你的证书(普通的清理方法都不彻底, 清理方法后面给出),这里先给出另一个方法,指定 Identity
+2. 如果出现 Identity 相关的错误
+  需要清理你的证书(普通的清理方法都不彻底, 清理方法后面给出).这里先给出另一个方法,指定Identity
 
 ###实现过程:
 
 1.0 在 Project 菜单 找到 Injection Plugin 菜单, 
-  在弹出的子菜单里,选择 Patch Project for Injection
 
+  在弹出的子菜单里,选择 Patch Project for Injection
+  这会在你的项目目录下生成一个文件夹('iOSInjectionProject')
+  
 2.1 测试 Injection
 
   1. Run [Command + R]
@@ -26,5 +29,6 @@
   5. 再次触发这个代码端, 可以看到"Injection Success" 被打印了.
 
 2.2 如果在以上过程中出现了错误提示框
-    2.2.1 Identity 错误
+
+  2.2.1 Identity 错误
     
