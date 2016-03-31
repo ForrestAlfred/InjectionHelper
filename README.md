@@ -17,8 +17,9 @@
 1.0 在 Project 菜单 找到 Injection Plugin 菜单, 
 
   * 在弹出的子菜单里,选择 Patch Project for Injection
+  * ![](http://7xn6cd.com1.z0.glb.clouddn.com/16-3-31/2085161.jpg)
   这会在你的项目目录下生成一个文件夹('iOSInjectionProject')
-![](http://7xn6cd.com1.z0.glb.clouddn.com/16-3-31/57151311.jpg)
+  *![](http://7xn6cd.com1.z0.glb.clouddn.com/16-3-31/57151311.jpg)
   
 2.1 测试 Injection
 
