@@ -1,12 +1,13 @@
-# InjectionHelper
-Guide To Injection
+# Injection 中文指南
 
 大家最近都开始用Injection Plugins, 这里给出一些解决方案,
 针对在使用过程中遇到的一些问题.
 
 
 ## 1. 真机运行 步骤
+
 大纲:
+
 1. 需要给我们的项目打一个补丁
 2. 如果出现 Identity 相关的错误, 需要清理你的证书(普通的清理方法都不彻底, 清理方法后面给出),这里先给出另一个方法,指定 Identity
 3. now, enjoy.
