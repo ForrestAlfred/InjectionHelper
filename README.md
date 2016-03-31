@@ -6,13 +6,12 @@
 
 ## 1. 真机运行步骤
 
-###大纲:
+###方法:
 
 1. 需要给我们的项目打一个补丁
 2. 如果出现 Identity 相关的错误, 需要清理你的证书(普通的清理方法都不彻底, 清理方法后面给出),这里先给出另一个方法,指定 Identity
-3. now, enjoy.
 
-###实现:
+###实现过程:
 
 1.0 在 Project 菜单 找到 Injection Plugin 菜单, 
   在弹出的子菜单里,选择 Patch Project for Injection
